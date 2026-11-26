@@ -1,4 +1,5 @@
 # Repetition Code Simulator
+![Tests](https://github.com/CMS999-debug/repetition-code-simulator/actions/workflows/tests.yml/badge.svg)
 
 A Python simulation of the bit-flip repetition code, the simplest error-correcting code. It shows how sending a bit several times and decoding by majority vote makes errors rarer.
 
